@@ -8,7 +8,7 @@ const Navbar = () => {
           Bitcoin Price
         </a>
         <div className="collapse navbar-collapse">
-          <ul className="navbar-nav ml-auto">
+          <ul className="navbar-nav ml-center">
             <li className="nav-item">
               <Link href="/">
                 <a className="nav-link">Home</a>
